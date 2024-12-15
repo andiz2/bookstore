@@ -1,0 +1,12 @@
+{
+    "books": [
+      { "id": 1, "title": "Book One", "author": "Author One", "price": 9.99, "stock": 12 },
+      { "id": 2, "title": "Book Two", "author": "Author Two", "price": 12.99, "stock": 44 },
+      { "id": 3, "title": "Book Three", "author": "Author Three", "price": 0.99, "stock": 0 }
+    ],
+    "users": [
+      { "id": 1, "name": "John Doe", "email": "john@example.com" },
+      { "id": 2, "name": "Jane Smith", "email": "jane@example.com" }
+    ]
+  }
+  
